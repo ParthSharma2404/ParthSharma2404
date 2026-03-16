@@ -6,7 +6,7 @@ I am a dedicated developer focused on building high-impact software solutions th
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Languages:** JavaScript (ES6+), Python, Java, C++, SQL
+- **Languages:** JavaScript (ES6+), Python, Java, C++, SQL, Kotlin
 - **Frontend:** React, Tailwind CSS, HTML5, CSS3
 - **Backend/AI:** Django, Node.js, Express, MongoDB, Llama 3, NLP
 - **DevOps:** Git, GitHub Actions, Vercel, Render

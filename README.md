@@ -17,7 +17,7 @@ I am a dedicated developer focused on building high-impact software solutions th
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[AI Parser](https://github.com/ParthSharma2404/AI-PARSER-AND-TEST-CASE-GENERATOR)** | Automated SRS document analysis & test case generation. | Python, Django, Llama 3 |
-| **[SafeSpace](#)** | Advanced personal safety tool & SOS system. | React, Node.js |
+| **[SafeSpace](https://github.com/ParthSharma2404/SafeSpace)** | Advanced personal safety tool & SOS system. | Kotlin |
 | **[Blogo](https://github.com/ParthSharma2404/Blogo.---Not-Your-Average-Blogging-buddy-)** | High-performance modern blogging platform. | React, Express, MongoDB |
 
 ---

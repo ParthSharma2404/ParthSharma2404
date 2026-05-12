@@ -39,12 +39,6 @@ I am dedicated to architecting high-impact software solutions that solve real-wo
 ---
 
 ## 📈 Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthSharma2404&show_icons=true&theme=dark&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Parth's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSharma2404&layout=compact&theme=dark&title_color=00b4d8&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" height="195px" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthSharma2404&theme=dark&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak" />
 </p>

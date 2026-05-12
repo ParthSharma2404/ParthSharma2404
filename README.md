@@ -1,17 +1,15 @@
-# 👋 Hello, I'm Parth Sharma
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Parth%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Product%20Engineer%20&%20Full-Stack%20Developer&descSize=22&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=240&text=Parth%20Sharma&fontSize=80&fontColor=00b4d8&descSize=26&descAlignY=68&desc=Product%20Engineer%20%EF%BC%86%20Full-Stack%20Developer%20" width="100%" alt="Parth Sharma" />
 </p>
 
-## ✒️ Professional Overview
+I am dedicated to architecting high-impact software solutions that solve real-world problems. My expertise lies in building scalable web applications and integrating advanced AI capabilities to create seamless, user-centric products.
 
-I am a **Product Engineer** and **Full-Stack Developer** dedicated to architecting high-impact software solutions that solve real-world problems. My expertise lies in building scalable web applications and integrating advanced AI capabilities to create seamless, user-centric products.
+---
 
-- 🔭 **Current Focus:** Engineering user-first products and optimizing full-stack performance.
-- 💡 **Core Competencies:** Product Strategy, Full-Stack Architecture, AI Integration, and UI/UX Design.
-- 🎓 **Education:** Continuous learner in modern software patterns and distributed systems.
-- 🌏 **Philosophy:** "Great engineering is about more than just code; it's about building products that matter."
+### 🔭 Current Focus
+- **Engineering** user-first products and optimizing full-stack performance.
+- **Strategizing** product growth and architecting AI-driven features.
+- **Exploring** modern software patterns and distributed systems.
 
 ---
 
@@ -20,7 +18,7 @@ I am a **Product Engineer** and **Full-Stack Developer** dedicated to architecti
 ### 🏗 Architecture & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,django,nodejs,express,mongodb,mysql,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,django,nodejs,express,mongodb,mysql,postgres&theme=dark" />
   </a>
 </p>
 
@@ -57,8 +55,8 @@ I am a **Product Engineer** and **Full-Stack Developer** dedicated to architecti
 
 | Project | Core Contribution | Stack |
 | :--- | :--- | :--- |
+| [**UniVerse**](https://universeorder.co.in) | A Digital Campus Dining platform facilitating seamless food ordering and dining experiences. | `React.js` `Node.js` `Express.js` `mongoDB` |
 | [**AI Parser**](https://github.com/ParthSharma2404/AI-PARSER-AND-TEST-CASE-GENERATOR) | Developed an automated engine for parsing technical docs and generating high-coverage test cases. | `Python` `NLP` `Llama 3` |
-| [**SafeSpace**](https://github.com/ParthSharma2404/SafeSpace) | Architected a real-time SOS safety utility with low-latency alert systems for personal security. | `Java` `Android` `Firebase` |
 | [**Blogo**](https://github.com/ParthSharma2404/Blogo.---Not-Your-Average-Blogging-buddy-) | Built a full-stack content platform focusing on modern markdown rendering and SEO optimization. | `React` `Node.js` `Express` |
 
 ---

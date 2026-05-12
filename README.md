@@ -1,15 +1,17 @@
+# 👋 Hello, I'm Parth Sharma
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Parth%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20|%20AI%20&%20LLM%20Specialist&descSize=22&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Parth%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Product%20Engineer%20&%20Full-Stack%20Developer&descSize=22&descAlignY=62" width="100%" />
 </p>
 
 ## ✒️ Professional Overview
 
-I am a **Software Engineer** specializing in the intersection of **Full-Stack Development** and **Artificial Intelligence**. I architect and build high-performance solutions that simplify complex logic into user-centric experiences. My work ranges from developing automated AI testing frameworks to building secure, scalable web applications.
+I am a **Product Engineer** and **Full-Stack Developer** dedicated to architecting high-impact software solutions that solve real-world problems. My expertise lies in building scalable web applications and integrating advanced AI capabilities to create seamless, user-centric products.
 
-- 🔭 **Current Focus:** Scaling AI-driven developer tools and performance optimization.
-- 💡 **Core Competencies:** Full-Stack Architecture, NLP, Distributed Systems, and UI/UX Design.
-- 🎓 **Education:** Continuous learner in Advanced Machine Learning and Modern Software Patterns.
-- 🌏 **Philosophy:** "Engineering is not just about solving problems, but about building systems that scale with human needs."
+- 🔭 **Current Focus:** Engineering user-first products and optimizing full-stack performance.
+- 💡 **Core Competencies:** Product Strategy, Full-Stack Architecture, AI Integration, and UI/UX Design.
+- 🎓 **Education:** Continuous learner in modern software patterns and distributed systems.
+- 🌏 **Philosophy:** "Great engineering is about more than just code; it's about building products that matter."
 
 ---
 
@@ -18,7 +20,7 @@ I am a **Software Engineer** specializing in the intersection of **Full-Stack De
 ### 🏗 Architecture & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,django,nodejs,express,mongodb,mysql,postgresql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,django,nodejs,express,mongodb,mysql,postgres&theme=dark" />
   </a>
 </p>
 
@@ -32,7 +34,7 @@ I am a **Software Engineer** specializing in the intersection of **Full-Stack De
 ### 🔧 Tools & Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,actions,docker,vercel,render,figma,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,figma,postman&theme=dark" />
   </a>
 </p>
 
@@ -64,7 +66,7 @@ I am a **Software Engineer** specializing in the intersection of **Full-Stack De
 ## ⚡ Activity & Engagement
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthSharma2404&theme=github-dark-teal&hide_border=true&area=true&color=00b4d8" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParthSharma2404&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&hide_border=true&area=true" width="100%" />
 </p>
 
 ---

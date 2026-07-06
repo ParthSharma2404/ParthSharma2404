@@ -38,19 +38,6 @@ I am dedicated to architecting high-impact software solutions that solve real-wo
 
 ---
 
-## 📈 Performance Metrics
-
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParthSharma2404&theme=dark&hide_border=true)
-
-### Live Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParthSharma2404&show_icons=true&theme=dark&hide_border=true)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSharma2404&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📂 Key Projects & Innovations
 
 | Project | Core Contribution | Stack |

@@ -43,7 +43,7 @@ I am dedicated to architecting high-impact software solutions that solve real-wo
 | Project | Core Contribution | Stack |
 | :--- | :--- | :--- |
 | [**StudySync 2.0**](https://studysync.fun) | Built a real-time collaborative study platform enabling students to study together with live video/audio, synchronized timers, and gamified focus features. | `React.js` `Node.js` `Express.js` `PostgreSQL` `LiveKit (WebRTC)` `Socket.io`|
-| [**UniVerse**](https://universeorder.co.in) | A Digital Campus Dining platform facilitating seamless food ordering and dining experiences. | `React.js` `Node.js` `Express.js` `mongoDB` `Socket.io` |
+| [**UniVerse**](https://www.universeorder.co.in/) | A Digital Campus Dining platform facilitating seamless food ordering and dining experiences. | `React.js` `Node.js` `Express.js` `mongoDB` `Socket.io` |
 | [**AI Parser**](https://github.com/ParthSharma2404/AI-PARSER-AND-TEST-CASE-GENERATOR) | Developed an automated engine for parsing technical docs and generating high-coverage test cases. | `Python` `NLP` `Llama 3` |
 | [**Blogo**](https://github.com/ParthSharma2404/Blogo.---Not-Your-Average-Blogging-buddy-) | Built a full-stack content platform focusing on modern markdown rendering and SEO optimization. | `React` `Node.js` `Express` |
 

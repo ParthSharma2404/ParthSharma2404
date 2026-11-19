@@ -1,10 +1,6 @@
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=230&section=header&text=Parth%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Engineer&descAlignY=55"
-    width="100%"
-    alt="Parth Sharma - Product Engineer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=240&text=Parth%20Sharma&fontSize=80&fontColor=00b4d8&descSize=26&descAlignY=68&desc=Product%20Engineer%20%EF%BC%86%20Full-Stack%20Developer%20" width="100%" alt="Parth Sharma" />
 </p>
 
 <p align="center">

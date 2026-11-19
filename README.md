@@ -8,9 +8,15 @@
 </p>
 
 <p align="center">
-  <a href="https://parth-portfolio-pied.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/parth-sharma-24p/">LinkedIn</a> •
-  <a href="mailto:parthsharma240404@gmail.com">Email</a>
+  <a href="https://parth-portfolio-pied.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/parth-sharma-24p/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:parthsharma240404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -77,7 +83,7 @@ Product Engineer passionate about Full-Stack Development, AI Engineering, and Sy
 
 | Project | What I Built | Technologies |
 |:---|:---|:---|
-| **Kisan-Vaani** | Voice-first AI agricultural intelligence and Mandi arbitrage platform. | `Python` `FastAPI` `WebSockets` `Gnani AI` `RAG` |
+| [**Kisan-Vaani**](https://kisan-vanni.onrender.com/) | Voice-first AI agricultural intelligence and Mandi arbitrage platform. | `Python` `FastAPI` `WebSockets` `Gnani AI` `RAG` |
 | [**UNIVERSE**](https://www.universeorder.co.in/) | Digital campus dining, QR ordering, vendor management, payments and automated settlements. | `React` `Node.js` `PostgreSQL` `AWS` `Socket.io` |
 | [**StudySync 2.0**](https://studysync.fun) | Real-time collaborative study platform with live audio/video, synchronized timers and gamification. | `React` `Node.js` `PostgreSQL` `LiveKit` `WebRTC` |
 | [**AI Parser**](https://github.com/ParthSharma2404/AI-PARSER-AND-TEST-CASE-GENERATOR) | AI-powered technical document parser and automated test case generator. | `Python` `NLP` `Llama 3` |
@@ -101,7 +107,7 @@ Product Engineer passionate about Full-Stack Development, AI Engineering, and Sy
 
 ### 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://parth-portfolio-pied.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
